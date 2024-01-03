@@ -1,0 +1,134 @@
+.logo{
+    width: 3rem;
+    
+}
+.heading{
+    font-family: 'Tangerine', cursive;
+    
+}
+.navbar-nav{
+    font-family: 'Courgette', cursive;
+}
+.nav-item{
+    font-family: 'Courgette', cursive;
+}
+
+.intro-bg {
+	background-color: rgb(180, 208, 208);
+	background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.5)), url("./images/travel-1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.text1{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bolder;
+}
+.text1-p{
+    font-family: 'Merienda', cursive;
+    font-weight: bold;
+    
+}
+section{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.about-h1{
+    font-family: 'Satisfy', cursive;
+}
+
+.h1-1{
+    font-family: 'Merienda', cursive;
+}
+.para{
+    font-family: 'Great Vibes', cursive;
+}
+.design{
+    font-family: 'Fredericka the Great', cursive;
+}
+
+.row11 p{
+    font-family: 'Caveat', cursive;
+}
+.row11 h2{
+    font-family: 'Merienda', cursive;
+}
+.row11 img{
+    margin-left: 6rem;
+}
+
+
+.card{
+    box-shadow: 0 0 45px rgba(26, 24, 24, 0);
+    transition: 0.5s;    
+}
+
+.card:hover{
+    background: blue;
+
+}
+.card *{
+    transform: 0.5s;
+}
+.card:hover *{
+    color: white;
+}
+#carouselExampleCaptions{
+        
+    width: 70%;
+    height: 70%;
+}
+
+#carouselExampleCaptions:hover{
+    scale: 102%;
+}
+
+/* ..................... */
+
+.t1{
+    font-family: 'Merienda', cursive;
+    font-weight: bold;
+        text-align: center;
+        
+        text-shadow: 0 0 5px rgb(194, 230, 49);
+        
+
+}
+/* package */
+.pack{
+    margin-left: 2rem;
+}
+.card{
+    box-shadow: 0 0 45px rgba(26, 24, 24, 0);
+       
+}
+
+.card2:hover{
+    background: rgb(146, 233, 250);
+
+}
+
+.card2:hover *{
+    color: white;
+}
+   
+#booknow {
+	background-image: linear-gradient(rgba(0,0,10,0.6),rgba(0,0,10,0.6)),url(./images/travel-concept2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+.card-text{
+    font-family: 'Caveat', cursive;
+}
+.card-body .btn{
+    font-family: 'Courgette', cursive;
+}
+.rr1{
+    font-family: 'Fredericka the Great', cursive;
+}
+.enjoy{
+    font-family: 'Dancing Script', cursive;
+}
